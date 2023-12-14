@@ -1,0 +1,652 @@
+ID,Title,Play,Year,Directors,Medium,Country,Faithful?,IMDb Rating, BoxOffice , Budget ,URL,New Time Period?,Reviewers
+0,All's Well That Ends Well,All's Well That Ends Well,1968,"John Barton (director), Claude Whatham (screen)",TV,UK,Yes,,,,https://www.imdb.com/title/tt0062651/?ref_=fn_al_tt_7,,0
+1,All's Well That Ends Well,All's Well That Ends Well,1978,Wilford Leach,Video,US,Yes,7.1,,,https://www.imdb.com/title/tt0077148/?ref_=fn_al_tt_5,,15
+2,"All's Well That Ends Well
+(BBC Television Shakespeare)",All's Well That Ends Well,1981,Elijah Moshinsky,TV,UK,Yes,6.9,,,https://www.imdb.com/title/tt0080352/?ref_=fn_al_tt_1,No,160
+3,"All's Well That Ends Well
+(National Theatre Live)",All's Well That Ends Well,2009,Marianne Elliott,TV,UK,Yes,6.6,25184,,https://www.imdb.com/title/tt1568800/?ref_=fn_al_tt_6,Yes,16
+4,As You Like It,As You Like It,1912,"J. Stuart Blackton
+Charles Kent
+James Young",Silent,US,Yes,4.1,,,https://www.imdb.com/title/tt0002031/?ref_=nv_sr_srsg_7_tt_8_nm_0_q_as%2520you%2520like%2520it,No,25
+5,Love in a Wood,As You Like It,1915,Maurice Elvey,Silent,UK,No,,,,,,
+6,As You Like It,As You Like It,1936,Paul Czinner,Film,UK,Yes,5.8,,,https://www.imdb.com/title/tt0027311/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_as%2520you%2520like%2520it,No,843
+7,As You Like It,As You Like It,1963,"Michael Elliott (stage)
+Ronald Eyre (TV)",TV,UK,Yes,9.4,,,https://www.imdb.com/title/tt0056837/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_as%2520you%2520like%2520it%25201963,,158
+8,"As You Like It
+(BBC Television Shakespeare)",As You Like It,1978,Basil Coleman,TV,UK,Yes,7.1,,,https://www.imdb.com/title/tt0077180/?ref_=ttep_ep3,No,354
+9,As You Like It,As You Like It,1983,Herb Roland,TV,Canada,Yes,6.8,,,https://www.imdb.com/title/tt1300565/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_as%2520you%2520like%2520it%25201983,,10
+10,As You Like It,As You Like It,1992,Christine Edzard,Film,UK,No,5.6,,,https://www.imdb.com/title/tt0103723/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_as%2520you%2520like%2520it%25201992,Yes,95
+11,"As You Like It
+(Shakespeare: The Animated Tales)",As You Like It,1994,Alexei Karaev,TV,Russia,Yes,7.5,,,https://www.imdb.com/title/tt0774078/?ref_=ttep_ep3,No,50
+12,As You Like It,As You Like It,2006,Kenneth Branagh,Film,UK,Yes,7.7,,,https://www.imdb.com/title/tt0450972/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_as%2520you%2520like%2520it%25202006,Yes,3700
+13,As You Like It,As You Like It,2010,"Robert Budreau
+Des McAnuff",TV,Canada,No,4.2,,,https://www.imdb.com/title/tt1651883/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_as%2520you%2520like%2520it%25202010,,6
+14,As You Like It,As You Like It,2010,Thea Sharrock,Video,,,,,,https://www.imdb.com/title/tt1710532/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_as%2520you%2520like%2520it%25202010,,166
+15,The Boys from Syracuse,The Comedy of Errors,1940,A. Edward Sutherland,Film,US,No,5.9,,,https://www.imdb.com/title/tt0032276/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520boys%2520from%2520syracuse,No,151
+16,"Bhranti Bilas
+(Bengali: ভ্রান্তি বিলাস, lit. 'Illusion of illusion)'",The Comedy of Errors,1963,Manu Sen,Film,India,No,7.8,,,https://www.imdb.com/title/tt2609170/?ref_=nv_sr_srsg_0_tt_1_nm_1_q_bhranti%2520bilas,Yes,140
+17,"The Comedy of Errors
+(Festival)",The Comedy of Errors,1967,"Peter Duguid
+Clifford Williams",TV,,,,,,,,0
+18,Do Dooni Char,The Comedy of Errors,1968,Debu Sen,Film,India,No,7.3,,,https://www.imdb.com/title/tt0060317/?ref_=nv_sr_srsg_0_tt_2_nm_1_q_do%2520dooni%2520char,Yes,74
+19,The Comedy of Errors,The Comedy of Errors,1978,Philip Casson,TV,UK,Yes,7.8,,,,No,0
+20,"Angoor
+(Hindi: अंगूर, lit. 'Grape)'",The Comedy of Errors,1982,Gulzar,Film,India,No,8.3,,,https://www.imdb.com/title/tt0215517/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_angoor,Yes,5700
+21,"The Comedy of Errors
+(BBC Television Shakespeare)",The Comedy of Errors,1983,James Cellan Jones,TV,UK,Yes,6.9,,,https://www.imdb.com/title/tt14801970/?ref_=ttep_ep3,No,0
+22,The Comedy of Errors,The Comedy of Errors,1987,Robert Woodruff,TV,US,Yes,9.3,,,https://www.imdb.com/title/tt0088941/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_comedy%2520of%2520errors,,83
+23,The Comedy of Errors,The Comedy of Errors,1989,Richard Monette,TV,Canada,No,8.1,,,https://www.imdb.com/title/tt0122024/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_comedy%2520of%2520errors%25201989,,50
+24,Love's Labor Lost,Love's Labour's Lost,1920,Vernon Stallings,Animation,US,No,5.1,,,https://www.imdb.com/title/tt0365457/?ref_=fn_al_tt_1,Yes,49
+25,"Love's Labour's Lost
+(Play of the Month)",Love's Labour's Lost,1975,Basil Coleman,TV,UK,Yes,8.4,,,https://www.imdb.com/title/tt0073313/?ref_=ttep_ep3,No,30
+26,"Love's Labour's Lost
+(BBC Television Shakespeare)",Love's Labour's Lost,1985,Elijah Moshinsky,TV,UK,Yes,,,,https://www.imdb.com/title/tt14801990/?ref_=ttep_ep4,No,0
+27,Love's Labour's Lost,Love's Labour's Lost,2000,Kenneth Branagh,Film,UK,No,5.9,299792," $ 13,000,000.00 ",,,0
+28,"Measure for Measure
+(Italian: Dente per dente, lit. 'A tooth for a tooth)'",Measure for Measure,1943,Marco Elter,Film,Italy,Yes,,,,https://www.imdb.com/title/tt0034642/?ref_=fn_al_tt_10,No,0
+29,"Measure For Measure
+(BBC Television Shakespeare)",Measure for Measure,1979,Desmond Davis,TV,UK,Yes,7.5,,,https://www.imdb.com/title/tt0077920/?ref_=ttep_ep5,No,230
+30,Measure for Measure,Measure for Measure,1994,David Thacker,TV,,,,,,,,0
+31,Measure for Measure,Measure for Measure,2006,Bob Komar,Film,UK,No,5.4,," $ 45,380.79 ",https://www.imdb.com/title/tt0834931/?ref_=fn_al_tt_2,, 69 
+32,M4M: Measure for Measure,Measure for Measure,2015,Gabriel Manwaring,Film,US,No,5.3,,,https://www.imdb.com/title/tt2708382/?ref_=fn_al_tt_4,Yes,14
+33,Measure For Measure,Measure for Measure,2019,Paul Ireland,Film,Australia,No,5.6,,,https://www.imdb.com/title/tt8846706/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_measure%2520for%2520measure%25202019,Yes,369
+34,The Merchant of Venice,The Merchant of Venice,1914,"Phillips Smalley
+Lois Weber",Silent,US,Yes,5.4,,,https://www.imdb.com/title/tt0004325/?ref_=nv_sr_srsg_9_tt_8_nm_0_q_merchant%2520of%2520venice,No,34
+35,The Merchant of Venice,The Merchant of Venice,1916,Walter West,Silent,UK,Yes,5.4,,,https://www.imdb.com/title/tt0007057/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_merchant%2520of%2520venice%25201916,No,8
+36,The Merchant of Venice,The Merchant of Venice,1922,Challis Sanderson,Silent,UK,Yes,,,,https://www.imdb.com/title/tt0311512/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_merchant%2520of%2520venice%25201922,No,0
+37,Der Kaufmann von Venedig,The Merchant of Venice,1923,Peter Paul Felner,Silent,Germany,Yes,5.7,,,https://www.imdb.com/title/tt0014175/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_der%2520kaufman,No,38
+38,The Merchant of Venice,The Merchant of Venice,1947,George More O'Ferrall,TV,UK,Yes,,,,https://www.imdb.com/title/tt0039618/?ref_=nv_sr_srsg_6_tt_6_nm_2_q_the%2520merchant%2520of%2520venice%25201947,No,0
+39,"The Merchant of Venice
+(Sunday Night Theatre)",The Merchant of Venice,1955,Hal Burton,TV,UK,Yes,8,,,https://www.imdb.com/title/tt0048371/?ref_=fn_al_tt_1,No,13
+40,"The Merchant of Venice
+(Play of the Month)",The Merchant of Venice,1972,Cedric Messina,TV,UK,Yes,7.3,,,https://www.imdb.com/title/tt0068937/?ref_=fn_al_tt_1,No,53
+41,The Merchant of Venice,The Merchant of Venice,1973,John Sichel,TV,UK,Yes,7.3,,,https://www.imdb.com/title/tt0070386/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_the%2520merchant%2520of%2520venice%25201973,No,290
+42,The Merchant of Venice,The Merchant of Venice,1976,John Sichel,TV,Canada,Yes,6,,,https://www.imdb.com/title/tt0170239/?ref_=nv_sr_srsg_7_tt_6_nm_2_q_the%2520merchant%2520of%2520venice%25201976,No,6
+43,"The Merchant of Venice
+(BBC Television Shakespeare)",The Merchant of Venice,1980,Jack Gold,TV,UK,Yes,7.3,,,https://www.imdb.com/title/tt0081152/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_the%2520merchant%2520of%2520venice%25201980,No,291
+44,The Merchant of Venice,The Merchant of Venice,1996,Alan Horrox,TV,UK,Yes,6.1,,,https://www.imdb.com/title/tt0138606/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_the%2520merchant%2520of%2520venice%25201996,No,27
+45,The Merchant of Venice,The Merchant of Venice,2001,"Chris Hunt
+Trevor Nunn",TV,UK,Yes,7.5,,,https://www.imdb.com/title/tt0298061/?ref_=fn_al_tt_1,No,106
+46,"The Maori Merchant of Venice
+(Māori: Te Tangata Whai Rawa o Weniti)",The Merchant of Venice,2002,Don Selwyn,Film,New Zealand,No,7,,,https://www.imdb.com/title/tt0300179/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520maori%2520mer,Yes,33
+47,The Merchant of Venice,The Merchant of Venice,2004,Michael Radford,Film,UK,Yes,7,21560182," $ 30,000,000.00 ",https://www.imdb.com/title/tt0379889/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_the%2520merchant%2520of%2520venice%25202004,No,38000
+48,"The Merry Wives of Windsor
+(German: Die lustigen Weiber von Windsor)",The Merry Wives of Windsor,1950,Georg Wildhagen,Film,East Germany,Yes,6.4,,,https://www.imdb.com/title/tt0042695/?ref_=nv_sr_srsg_7_tt_8_nm_0_q_the%2520merry%2520wives%2520of%2520windsor1950,No,23
+49,"The Merry Wives of Windsor
+(Sunday Night Theatre)",The Merry Wives of Windsor,1952,Julian Amyes,TV,UK,Yes,,,,https://www.imdb.com/title/tt0044901/?ref_=fn_al_tt_1,No,0
+50,Chimes at Midnight,The Merry Wives of Windsor,1966,Orson Welles,Film,Spain,Yes,7.6,126724," $ 800,000.00 ",https://www.imdb.com/title/tt0059012/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_chimes%2520at%2520mi,No,9900
+51,The Merry Wives of Windsor,The Merry Wives of Windsor,1970,Jack Manning,TV,,,,,,,,0
+52,"The Merry Wives of Windsor
+(BBC Television Shakespeare)",The Merry Wives of Windsor,1982,David Jones,TV,UK,Yes,6.9,,,https://www.imdb.com/title/tt0084325/?ref_=fn_al_tt_3,No,166
+53,A Midsummer Night's Dream,A Midsummer Night's Dream,1909,"Charles Kent
+J. Stuart Blackton",Silent,US,Yes,5.6,,,https://www.imdb.com/title/tt0000966/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25201909,No,356
+54,"Wood Love
+(German: Ein Sommernachtstraum)",A Midsummer Night's Dream,1925,Hans Neumann,Silent,Germany,,,,,https://www.imdb.com/title/tt0015352/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_wood%2520love%25201925,,0
+55,A Midsummer Night's Dream,A Midsummer Night's Dream,1935,"Max Reinhardt
+William Dieterle",Film,US,Yes,6.8,2616000,,https://www.imdb.com/title/tt0026714/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25201935,No,3800
+56,"A Midsummer Night's Dream
+(Czech: Sen noci svatojánské)",A Midsummer Night's Dream,1959,Jiří Trnka,Film,Czechoslovakia,Yes,7.2,,,https://www.imdb.com/title/tt0053261/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25201959,No,445
+57,A Midsummer Night's Dream,A Midsummer Night's Dream,1968,Peter Hall,Film,UK,Yes,6.5,,,https://www.imdb.com/title/tt0063297/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25201959,No,853
+58,"A Midsummer Night's Dream
+(French: Le Songe d'une nuit d'été)",A Midsummer Night's Dream,1969,Jean-Christophe Averty,TV,France,Yes,8.4,,,https://www.imdb.com/title/tt0176164/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25201969,No,44
+59,"A Midsummer Night's Dream
+(BBC Television Shakespeare)",A Midsummer Night's Dream,1980,Elijah Moshinsky,TV,,,,,,,,0
+60,"Dream of a Summer Night
+(Italian: Sogno di una Notte d'Estate)",A Midsummer Night's Dream,1983,Gabriele Salvatores,Film,Italy,Yes,5.4,,,https://www.imdb.com/title/tt0086332/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_dream%2520of%2520a%2520summer%2520night%25201983,No,79
+61,"A Midsummer Night's Dream
+(Shakespeare: The Animated Tales)",A Midsummer Night's Dream,1992,Robert Saakiants,TV,,,,,,,,0
+62,A Midsummer Night's Dream,A Midsummer Night's Dream,1996,Adrian Noble,Film,UK,Yes,6.2,,,https://www.imdb.com/title/tt0117043/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25201996,No,387
+63,A Midsummer Night's Dream,A Midsummer Night's Dream,1999,Michael Hoffman,Film,UK,Yes,6.4,16071990," $ 11,000,000.00 ",https://www.imdb.com/title/tt0140379/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25201996,Yes,27000
+64,The Children's Midsummer Night's Dream,A Midsummer Night's Dream,2001,Christine Edzard,Film,UK,Yes,5.8,,,https://www.imdb.com/title/tt0289114/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520children%27s%2520midsu,No,29
+65,Get Over It,A Midsummer Night's Dream,2001,Tommy O'Haver,Film,US,No,5.7,19900366," $ 22,000,000.00 ",https://www.imdb.com/title/tt0192071/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_get%2520over%2520it,Yes,20000
+66,A Midsummer Night's Rave,A Midsummer Night's Dream,2002,Gil Cates Jr.,Film,US,No,5,," $ 1,500,000.00 ",https://www.imdb.com/title/tt0323248/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520rave,Yes,548
+67,"Midsummer Dream
+(Spanish: El Sueño de una Noche de San Juan)",A Midsummer Night's Dream,2005,"Ángel de la Cruz
+Manolo Gómez",Film,Spain,No,4.6,1086122,,https://www.imdb.com/title/tt0443123/plotsummary/?ref_=tt_ov_pl,Yes,412
+68,"A Midsummer Night's Dream
+(ShakespeaRe-Told)",A Midsummer Night's Dream,2005,Peter Bowker,TV,UK,No,6.7,,,https://www.imdb.com/title/tt0462425/?ref_=ttep_ep4,Yes,395
+69,Were the World Mine,A Midsummer Night's Dream,2008,Tom Gustafson,Film,US,No,6.8,123789,,https://www.imdb.com/title/tt0476991/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_were%2520the%2520world%2520mine,Yes,5900
+70,10ml LOVE,A Midsummer Night's Dream,2010,Sharat Katariya,Film,India,No,6.4,,,https://www.imdb.com/title/tt1667460/?ref_=nv_sr_srsg_0_tt_6_nm_0_q_10%2520ml,Yes,173
+71,A Midsummer Night's Dream,A Midsummer Night's Dream,2015,Julie Taymor,Film,US,Yes,,,,https://www.imdb.com/title/tt3812730/?ref_=fn_al_tt_10,No,341
+72,Strange Magic,A Midsummer Night's Dream,2015,Gary Rydstrom,Film,US,No,5.7,13603453,,https://www.imdb.com/title/tt4191054/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_strange%2520magic,Yes,12000
+73,A Midsummer Night's Dream,A Midsummer Night's Dream,2016,David Kerr,TV,UK,Yes,6.4,,,https://www.imdb.com/title/tt5051278/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream,Yes,807
+74,A Midsummer Night's Dream,A Midsummer Night's Dream,2018,Casey Wilder Mott,Film,US,Yes,5.5,,,https://www.imdb.com/title/tt5659816/?ref_=nv_sr_srsg_5_tt_8_nm_0_q_a%2520midsummer%2520night%27s%2520dream%25202018,Yes,252
+75,Much Ado About Nothing,Much Ado About Nothing,1973,"Nick Havinga
+A.J. Antoon",TV,US,Yes,7.7,,,https://www.imdb.com/title/tt0071870/?ref_=fn_al_tt_7,Yes,111
+76,Much Ado About Nothing (Russian: Много шума из ничего),Much Ado About Nothing,1973,Samson Samsonov,Film,,,,,,,,0
+77,"Much Ado About Nothing
+(BBC Television Shakespeare)",Much Ado About Nothing,1984,Stuart Burge,TV,UK,Yes,8.1,,,https://www.imdb.com/title/tt0087752/?ref_=fn_al_tt_4,No,271
+78,Much Ado About Nothing,Much Ado About Nothing,1993,Kenneth Branagh,Film,UK,Yes,7.3,22549338," $ 11,000,000.00 ",https://www.imdb.com/title/tt0107616/?ref_=fn_al_tt_1,Yes,51000
+79,"Much Ado About Nothing
+(ShakespeaRe-Told)",Much Ado About Nothing,2005,Brian Percival,TV,UK,No,7.6,,,https://www.imdb.com/title/tt0468034/?ref_=ttep_ep1,Yes,888
+80,Much Ado About Nothing,Much Ado About Nothing,2012,Joss Whedon,Film,US,Yes,7,5341221,,https://www.imdb.com/title/tt2094064/?ref_=fn_al_tt_3,Yes,17000
+81,The Taming of the Shrew,The Taming of the Shrew,1908,D. W. Griffith,Silent,US,Yes,5.4,,,https://www.imdb.com/title/tt0000770/?ref_=fn_al_tt_13,No,162
+82,Daring Youth,The Taming of the Shrew,1924,William Beaudine,Silent,US,No,,,,https://www.imdb.com/title/tt0014829/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_daring%2520youth,Yes,0
+83,The Taming of the Shrew,The Taming of the Shrew,1929,Sam Taylor,Film,US,Yes,6.2,," $ 504,000.00 ",https://www.imdb.com/title/tt0020479/?ref_=ttpl_ov,No,632
+84,You Made Me Love You,The Taming of the Shrew,1933,Monty Banks,Film,UK,No,6.4,,,https://www.imdb.com/title/tt0024794/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_you%2520made%2520me%2520love%2520you%25201933,Yes,121
+85,"Kiss Me, Kate",The Taming of the Shrew,1953,George Sidney,Film,US,No,7,3117000," $ 1,981,000.00 ",https://www.imdb.com/title/tt0045963/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_kiss%2520me%2520kate,Yes,6700
+86,The Taming of the Shrew,The Taming of the Shrew,1962,Alan Burke,TV,Australia,,,,,https://www.imdb.com/title/tt1784682/?ref_=fn_al_tt_23,,0
+87,"Arivaali
+(Tamil: அறிவாளி)",The Taming of the Shrew,1963,A. T. Krishnaswami,Film,India,,8.2,,,https://www.imdb.com/title/tt1435461/?ref_=nv_sr_srsg_7_tt_7_nm_1_q_arivaali,,13
+88,"The Taming of the Shrew
+(Italian: La Bisbetica domata)",The Taming of the Shrew,1967,Franco Zeffirelli,Film,Italy,Yes,7.1,12000000," $ 4,000,000.00 ",https://www.imdb.com/title/tt0061407/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_la%2520bisbetica,No,8.5
+89,The Taming of the Shrew,The Taming of the Shrew,1973,Robin Lovejoy,TV,Australia,Yes,,,,https://www.imdb.com/title/tt0376235/?ref_=fn_al_tt_16,Yes,0
+90,The Taming of the Shrew,The Taming of the Shrew,1973,Kirk Browning,TV,US,Yes,8.8,,,https://www.imdb.com/title/tt0125534/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_the%2520taming%2520of%2520the%2520shrew%2520robin%2520jovejoy,No,291
+91,"The Taming of the Scoundrel
+(Italian: Il Bisbetico Domato)",The Taming of the Shrew,1980,"Franco Castellano
+Giuseppe Moccia",Film,Italy,No,7.6,,,https://www.imdb.com/title/tt0080439/?ref_=nv_sr_srsg_2_tt_1_nm_5_q_the%2520taming%2520of%2520the%2520scoundrel,Yes,9300
+92,"The Taming of the Shrew
+(BBC Television Shakespeare)",The Taming of the Shrew,1980,Jonathan Miller,TV,UK,Yes,7.2,,,https://www.imdb.com/title/tt0081597/?ref_=fn_al_tt_4,No,389
+93,"Kiss Me, Petruchio",The Taming of the Shrew,1981,Christopher Dixon,TV,US,No,8,,,https://www.imdb.com/title/tt0342642/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_kiss%2520me%2520petruchio,Yes,106
+94,"The Taming of the Shrew
+(The Shakespeare Collection)",The Taming of the Shrew,1983,John Allinson,Video,US,Yes,6.2,,,https://www.imdb.com/title/tt0203974/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520taming%2520of%2520the%2520shrew%25201983,,35
+95,"Atomic Shakespeare
+(Moonlighting)",The Taming of the Shrew,1986,Will Mackenzie,TV,US,No,8.4,,,https://www.imdb.com/title/tt0651043/?ref_=fn_al_tt_1,Yes,370
+96,"Nanjundi Kalyana
+(Kannada: ನಂಜುಂಡಿ ಕಲ್ಯಾಣ, lit. 'Nanjundi's marriage)'",The Taming of the Shrew,1989,M. S. Rajashekar,Film,India,No,8.2,,,https://www.imdb.com/title/tt8593290/?ref_=nv_sr_srsg_0_tt_3_nm_5_q_nanjundi,Yes,59
+97,"Mahajananiki Maradalu Pilla
+(Telugu: మహాజనానికి మరదలు పిల్ల, lit. 'A child of neglect)'",The Taming of the Shrew,1990,"Vallabhaneni Janardhan
+Vijaya Bapineedu",Film,India,,5.5,," $ 15,000,000.00 ",https://www.imdb.com/title/tt1579623/?ref_=nv_sr_srsg_0_tt_2_nm_2_q_mahajananiki,,8
+98,"The Taming of the Shrew
+(Shakespeare: The Animated Tales)",The Taming of the Shrew,1994,Aida Ziablikova,TV,Russia,Yes,7.7,,,https://www.imdb.com/title/tt0774079/?ref_=fn_al_tt_1,No,59
+99,10 Things I Hate About You,The Taming of the Shrew,1999,Gil Junger,Film,US,No,7.3,53479734," $ 30,000,000.00 ",https://www.imdb.com/title/tt0147800/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_10%2520things%2520i%2520hate%2520about%2520you,Yes,373000
+100,"The Carnation and the Rose
+(Portuguese: O Cravo e a Rosa)",The Taming of the Shrew,2000,,Telenovela,Brazil,No,8.1,,,https://www.imdb.com/title/tt0251503/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_o%2520cravo%2520e%2520a%2520ro,Yes,634
+101,Deliver Us from Eva,The Taming of the Shrew,2003,Gary Hardwick,Film,US,No,6,17573594,,https://www.imdb.com/title/tt0301181/?ref_=nv_sr_srsg_7_tt_8_nm_0_q_deliver%2520us%2520,Yes,7600
+102,"The Taming of The Shrew
+(ShakespeaRe-Told)",The Taming of the Shrew,2005,David Richards,TV,UK,No,8.1,,,https://www.imdb.com/title/tt0453555/?ref_=ttep_ep3,Yes,1500
+103,"Frivolous Wife
+(Korean: 날나리 종부전)[35]",The Taming of the Shrew,2008,Lim Won-kook,Film,South Korea,No,5.3,151787,, https://www.imdb.com/title/tt1240955/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_frivolous%2520wife ,Yes,191
+104,Twelfth Night,Twelfth Night,1910,"Eugene Mullin
+Charles Kent",Film,US,Yes,5.4,,,https://www.imdb.com/title/tt0125564/?ref_=fn_al_tt_19,No,272
+105,Twelfth Night,Twelfth Night,1933,Orson Welles,Film,US,Yes,5.9,,,https://www.imdb.com/title/tt7794952/?ref_=fn_al_tt_9,No,35
+106,"Twelfth Night
+(Russian: Двенадцатая ночь)",Twelfth Night,1955,Yan Frid,Film,USSR,Yes,7.4,,,https://www.imdb.com/title/tt0049166/?ref_=fn_al_tt_5,No,291
+107,Twelfth Night,Twelfth Night,1966,Ken Hannam,TV,Australia,Yes,,,,https://www.imdb.com/title/tt1784706/?ref_=fn_al_tt_26,No,0
+108,Twelfth Night,Twelfth Night,1970,"John Sichel
+John Dexter",TV,UK,Yes,6.9,,,https://www.imdb.com/title/tt0125569/?ref_=fn_al_tt_51,No,119
+109,"Twelfth Night
+(BBC Television Shakespeare)",Twelfth Night,1980,John Gorrie,TV,UK,Yes,7.8,,,https://www.imdb.com/title/tt0081668/?ref_=fn_al_tt_5,No,286
+110,Twelfth Night,Twelfth Night,1986,Neil Armfield,Film,Australia,Yes,6.2,,,https://www.imdb.com/title/tt0094197/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_twelfth%2520night%25201986,Yes,112
+111,Twelfth Night,Twelfth Night,1988,Kenneth Branagh,TV,UK,Yes,,,,,No,
+112,"Twelfth Night
+(Shakespeare: The Animated Tales)",Twelfth Night,1992,Maria Muat,TV,Russia,Yes,8.1,,,https://www.imdb.com/title/tt0105663/?ref_=fn_al_tt_2,No,67
+113,Twelfth Night,Twelfth Night,1996,Trevor Nunn,Film,Ireland,Yes,7.1,588621," $ 5,000,000.00 ",https://www.imdb.com/title/tt0117991/?ref_=tt_mv_close,Yes,6300
+114,"Twelfth Night, or What You Will",Twelfth Night,2003,Tim Supple,TV,UK,Yes,6.5,,,https://www.imdb.com/title/tt0364717/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_twelfth%2520night%25202003,Yes,135
+115,She's the Man,Twelfth Night,2006,Andy Fickman,Film,US,No,6.4,57194667," $ 20,000,000.00 ",https://www.imdb.com/title/tt0454945/?ref_=nv_sr_srsg_1_tt_7_nm_0_q_she%27s%2520the%2520man,Yes,172000
+116,Twelfth Night,Twelfth Night,2013,Tim Carroll,Film,UK,Yes,8.9,," $ 74,013.91 ",https://www.imdb.com/title/tt5622262/?ref_=nv_sr_srsg_5_tt_8_nm_0_q_twelfth%2520night,Yes,423
+117,"A Spray of Plum Blossoms
+(Chinese: 一剪梅; pinyin: Yī jiǎn méi)",The Two Gentlemen of Verona,1931,Bu Wancang,Silent film,China,No,5.9,,,https://www.imdb.com/title/tt0192842/?ref_=nv_sr_srsg_0_tt_6_nm_0_q_a%2520spray%2520of%2520plum%2520blossoms,Yes,71
+118,"The Two Gentlemen of Verona
+(BBC Television Shakespeare)",The Two Gentlemen of Verona,1983,Don Taylor,TV,UK,Yes,6.5,,,https://www.imdb.com/title/tt0086492/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520two%2520gentlemen%2520,No,126
+119,Antony and Cleopatra,Antony and Cleopatra,1908,"J. Stuart Blackton
+Charles Kent",Film,US,Yes,3.5,,,https://www.imdb.com/title/tt0000634/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_antony%2520and%2520cleopatra%25201908,,26
+120,"Antony and Cleopatra
+(Italian: Marcantonio e Cleopatra)[41]",Antony and Cleopatra,1913,Enrico Guazzoni,Silent film,Italy,No,5.5,,,https://www.imdb.com/title/tt0184703/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_antony%2520and%2520cleopatra%25201913,No,72
+121,Antony and Cleopatra,Antony and Cleopatra,1959,Christopher Muir,TV,Australia,Yes,,,,https://www.imdb.com/title/tt3508918/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_antony%2520and%2520cleopatra%25201959,No,0
+122,Antony and Cleopatra,Antony and Cleopatra,1972,Charlton Heston,Film,UK,Yes,5.8,," $ 1,600,000.00 ",https://www.imdb.com/title/tt0068920/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_antony%2520and%2520cleopatra%25201972,No,1200
+123,Antony and Cleopatra,Antony and Cleopatra,1974,Jon Scoffield,TV,UK,Yes,6.8,,,https://www.imdb.com/title/tt0175447/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_antony%2520and%2520cleopatra%25201974,No,125
+124,"Antony & Cleopatra
+(BBC Television Shakespeare)",Antony and Cleopatra,1981,Jonathan Miller,TV,UK,Yes,6.4,,,https://www.imdb.com/title/tt0080374/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_antony%2520and%2520cleopatra%25201981,No,153
+125,Kannaki,Antony and Cleopatra,2002,Jayaraaj,Film,India,No,5.8,,,https://www.imdb.com/title/tt0355638/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_kannaki,,45
+126,"The Tragedy of Coriolanus
+(BBC Television Shakespeare)",Coriolanus,1984,Elijah Moshinsky,TV,UK,Yes,7.4,,,https://www.imdb.com/title/tt0086467/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520tragedy%2520of%2520corio,No,136
+127,Coriolanus,Coriolanus,2012,Ralph Fiennes,Film,UK,Yes,6.1,2400000," $ 7,700,000.00 ",https://www.imdb.com/title/tt1372686/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_coriolanus,Yes,33000
+128,"Hamlet
+(French: Le Duel d'Hamlet)",Hamlet,1900,Clément Maurice,Film,France,Yes,5.3,,,https://www.imdb.com/title/tt0000306/?ref_=fn_al_tt_1,No,249
+129,Hamlet,Hamlet,1907,Georges Méliès,Silent,France,Yes,5.1,,,https://www.imdb.com/title/tt0000598/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_hamlet%25201907,No,36
+130,Hamlet,Hamlet,1908,Henri Desfontaines,Silent,France,Yes,5.1,,,https://www.imdb.com/title/tt0001242/?ref_=nv_sr_srsg_1_tt_5_nm_0_q_hamlet%25201908,No,18
+131,Hamlet,Hamlet,1912,Charles Raymond,Silent,UK,Yes,,,,,No,0
+132,Hamlet,Hamlet,1913,Hay Plumb,Silent,UK,Yes,5,,,https://www.imdb.com/title/tt0002922/?ref_=nv_sr_srsg_0_tt_7_nm_0_q_hamlet%25201913,No,80
+133,"Hamlet
+(Italian: Amleto)",Hamlet,1917,Eleuterio Rodolfi,Silent,Italy,Yes,5.4,,,https://www.imdb.com/title/tt0008040/?ref_=nv_sr_srsg_0_tt_6_nm_0_q_hamlet%25201917,No,11
+134,Hamlet,Hamlet,1921,"Svend Gade
+Heinz Schall",Silent,Germany,Yes,7,,,https://www.imdb.com/title/tt0012249/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_hamlet%25201921,No,510
+135,"Blood for Blood
+(Urdu: Khoon Ka Khoon)",Hamlet,1935,Sohrab Modi,Film,India,Yes,4.7,,,https://www.imdb.com/title/tt0026566/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_khoon%2520ka%2520khoon,No,10
+136,Hamlet,Hamlet,1948,Laurence Olivier,Film,UK,Yes,7.6,3250000," $ 663,060.37 ",https://www.imdb.com/title/tt0040416/?ref_=nv_sr_srsg_0_tt_5_nm_0_q_hamlet%25201948,No,18000
+137,"I, Hamlet
+(Italian: Io, Amleto)",Hamlet,1952,Giorgio Simonelli,Film,Italy,No,6.4,,,https://www.imdb.com/title/tt0044752/?ref_=nv_sr_srsg_9_tt_8_nm_0_q_lo%252C%2520Amleto,No,13
+138,"Hamlet
+(Urdu: हेमलेट)",Hamlet,1954,Kishore Sahu,Film,India,Yes,6.3,,,https://www.imdb.com/title/tt0047060/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%25201954,No,28
+139,Hamlet,Hamlet,1959,Royston Morley,TV,Australia,Yes,,," $ 3,141.25 ",,No,0
+140,"The Bad Sleep Well
+(Japanese: 悪い奴ほどよく眠る, romanized: Warui yatsu hodo yoku nemuru)",Hamlet,1960,Akira Kurosawa,Film,Japan,No,8,359485.66," $ 567,594.56 ",https://www.imdb.com/title/tt0054460/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520bad%2520sleep%2520well,Yes,14000
+141,"Hamlet
+(German: Hamlet, Prinz von Dänemark)",Hamlet,1961,Franz Peter Wirth,TV,West Germany,Yes,2.7,,,https://www.imdb.com/title/tt0053888/,No,662
+142,Ophelia,Hamlet,1963,Claude Chabrol,Film,France,No,6.5,,,https://www.imdb.com/title/tt0056312/?ref_=nv_sr_srsg_0_tt_5_nm_0_q_ophelia%25201963,Yes,274
+143,"Hamlet
+(Russian: Гамлет, tr. Gamlet)",Hamlet,1964,"Grigori Kozintsev
+Iosif Shapiro",Film,USSR,Yes,8.2,,,https://www.imdb.com/title/tt0058126/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%25201964,No,2900
+144,Hamlet,Hamlet,1964,"Bill Colleran (film)
+John Gielgud (stage)",Film,US,Yes,7.7,,,https://www.imdb.com/title/tt0058175/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_hamlet%25201964,No,510
+145,Hamlet at Elsinore,Hamlet,1964,Philip Saville,TV,Denmark,Yes,7.9,,,https://www.imdb.com/title/tt0058176/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%2520at%2520el,No,231
+146,"Johnny Hamlet
+(Italian: Quella sporca storia nel West, lit. 'That Dirty Story in the West)'",Hamlet,1968,Enzo G. Castellari,Film,Italy,No,6.5,,,https://www.imdb.com/title/tt0063479/?ref_=nv_sr_srsg_0_tt_1_nm_7_q_Johnny%2520hamlet,Yes,640
+147,Hamlet,Hamlet,1969,Tony Richardson,Film,UK,Yes,7,," $ 35,000.00 ",https://www.imdb.com/title/tt0064400/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%25201969,No,849
+148,"One Hamlet Less
+(Italian: Un Amleto di meno)",Hamlet,1973,Carmelo Bene,Film,Italy,No,7.1,,,https://www.imdb.com/title/tt0069705/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_one%2520hamlet%2520less,Yes,191
+149,Hamlet,Hamlet,1974,Julian Pringle,TV,Australia,Yes,,,,,No,0
+150,"The Angel of Vengeance – The Female Hamlet
+(Turkish: İntikam Meleği – Kadın Hamlet)",Hamlet,1977,Metin Erksan,Film,Turkey,,6.4,,,https://www.imdb.com/title/tt0076201/,,340
+151,"Hamlet, Prince of Denmark
+(BBC Television Shakespeare)",Hamlet,1980,Rodney Bennett,TV,UK,Yes,,,,https://www.imdb.com/title/tt14801620/?ref_=ttep_ep6,No,0
+152,Strange Brew,Hamlet,1983,"Dave Thomas
+Rick Moranis",Film,Canada,No,6.6,8500000," $ 4,000,000.00 ",https://www.imdb.com/title/tt0086373/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_strange%2520brew,Yes,18000
+153,"Hamlet Goes Business
+(Finnish: Hamlet liikemaailmassa)",Hamlet,1987,Aki Kaurismäki,Film,Finland,No,6.9,,,https://www.imdb.com/title/tt0093139/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%2520goes,Yes,2200
+154,Hamlet,Hamlet,1990,Franco Zeffirelli,Film,US,Yes,6.7,23300000," $ 15,835,995.00 ",https://www.imdb.com/title/tt0099726/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%25201990,No,23000
+155,Rosencrantz & Guildenstern Are Dead,Hamlet,1990,Tom Stoppard,Film,UK,No,7.3,822000.41," $ 3,054,121.20 ",https://www.imdb.com/title/tt0100519/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_rosencrantz,Yes,24000
+156,"Hamlet
+(Shakespeare: The Animated Tales)",Hamlet,1992,Natalia Orlova,TV,Russia,Yes,7.8,,,https://www.imdb.com/title/tt0104387/?ref_=ttep_ep5,No,136
+157,Renaissance Man,Hamlet,1994,Penny Marshall,Film,US,No,6.2,24332324," $ 40,000,000.00 ",https://www.imdb.com/title/tt0110971/?ref_=nv_sr_srsg_5_tt_8_nm_0_q_renaissance,Yes,19000
+158,The Lion King,Hamlet,1994,"Roger Allers
+Rob Minkoff",Film,US,No,8.5,968400000," $ 45,000,000.00 ",https://www.imdb.com/title/tt0110357/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520lion%2520king,Yes,1100000
+159,In the Bleak Midwinter,Hamlet,1995,Kenneth Branagh,Film,UK,No,7.2,800000,,https://www.imdb.com/title/tt0113403/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_in%2520the%2520bleak%2520midwinter%25201995,Yes,2700
+160,Hamlet,Hamlet,1996,Kenneth Branagh,Film,UK,Yes,7.7,4700000," $ 18,000,000.00 ",https://www.imdb.com/title/tt0116477/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%25201996,No,40000
+161,Let the Devil Wear Black,Hamlet,1999,Stacy Title,Film,US,No,5,,,https://www.imdb.com/title/tt0151331/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_let%2520the%2520devil%2520wear%2520black,Yes,731
+162,Hamlet,Hamlet,2000,Michael Almereyda,Film,US,Yes,5.9,2000000,,,Yes,9900
+163,The Tragedy of Hamlet,Hamlet,2002,Peter Brook,Film,UK,Yes,7.6,,,,No,114
+164,"The Banquet
+(Chinese: 夜宴; pinyin: Yè Yàn)",Hamlet,2006,Feng Xiaogang,Film,China,No,6.4,," $ 17,697,881.80 ",https://www.imdb.com/title/tt0465676/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520banquet%25202006,No,7100
+165,Hamlet,Hamlet,2009,Gregory Doran,TV,UK,Yes,8.1,,,https://www.imdb.com/title/tt1449175/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%25202009,Yes,3700
+166,"Tardid
+(Persian: تردید, lit. 'Doubt)'",Hamlet,2009,Varuzh Karim-Masihi (Persian: واروژ کریم مسیحی),Film,Iran,No,5.9,,,https://www.imdb.com/title/tt1371723/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_tardid,Yes,704
+167,Hamlet,Hamlet,2011,Bruce Ramsay,Film,Canada,No,4.8,,,https://www.imdb.com/title/tt1964758/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_hamlet%25202011,Yes,40
+168,Karmayogi,Hamlet,2012,V. K. Prakash,Film,India,No,3.8,,,https://www.imdb.com/title/tt2236636/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_karmayogi,No,39
+169,Haider,Hamlet,2014,Vishal Bhardwaj,Film,India,No,8,10193344.5," $ 4,197,259.50 ",https://www.imdb.com/title/tt3390572/?ref_=nv_sr_srsg_0_tt_1_nm_7_q_haider,Yes,57000
+170,The Lion King,Hamlet,2019,Jon Favreau,Film,US,No,6.8,1663000000," $ 260,000,000.00 ",https://www.imdb.com/title/tt6105098/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_the%2520lion%2520king,Yes,262000
+171,Julius Caesar,Julius Caesar,1950,David Bradley,Film,US,Yes,6.3,,,https://www.imdb.com/title/tt0042622/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Julius%2520caesar%25201950,No,468
+172,Julius Caesar,Julius Caesar,1953,Joseph L. Mankiewicz,Film,US,Yes,7.2,3920000," $ 2,070,000.00 ",https://www.imdb.com/title/tt0045943/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_julius%2520caesar%25201969,No,13000
+173,Julius Caesar,Julius Caesar,1969,Alan Bridges,TV,UK,Yes,,,,,No,0
+174,Julius Caesar,Julius Caesar,1970,Stuart Burge,Film,UK,Yes,6.1,,,https://www.imdb.com/title/tt0065922/?ref_=nv_sr_srsg_0_tt_2_nm_5_q_Julius%2520ceasar%25201970,No,1900
+175,"Julius Caesar
+(BBC Television Shakespeare)",Julius Caesar,1979,Herbert Wise,TV,UK,Yes,7.4,,,https://www.imdb.com/title/tt0079378/?ref_=ttep_ep4,No,253
+176,"Julius Caesar
+(Shakespeare: The Animated Tales)",Julius Caesar,1994,Yuri Kulakov,TV,Russia,Yes,8.4,,,https://www.imdb.com/title/tt0773247/?ref_=ttep_ep4,No,64
+177,Julius Caesar,Julius Caesar,2012,Gregory Doran,TV,UK,Yes,5.9,,,https://www.imdb.com/title/tt2363237/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_julias%2520ceasar%25202012,No,223
+178,Julius Caesar,Julius Caesar,2018,Angus Jackson,TV,UK,Yes,,,,,No,0
+179,Julius Caesar,Julius Caesar,2018,Phyllida Lloyd,TV,UK,Yes,,,,,No,0
+180,"King Lear
+(Italian: Re Lear)",King Lear,1910,Gerolamo Lo Savio,Silent,Italy,Yes,6,,,https://www.imdb.com/title/tt0001378/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_king%2520lear%25201910,No,223
+181,King Lear,King Lear,1916,Ernest C. Warde,Silent,US,Yes,5.4,,,https://www.imdb.com/title/tt0006895/?ref_=nv_sr_srsg_0_tt_3_nm_0_q_king%2520lear%25201916,No,97
+182,"Gunasundari Katha
+(Telugu: గుణసుందరి కథ)",King Lear,1949,K. V. Reddy,Film,India,No,8.3,,,https://www.imdb.com/title/tt0266605/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_kunasundari,No,39
+183,King Lear,King Lear,1953,"Peter Brook
+Andrew McCullough",TV,US,Yes,6.9,,,https://www.imdb.com/title/tt0045960/?ref_=fn_al_tt_1,No,188
+184,King Lear,King Lear,1971,Peter Brook,Film,UK,Yes,,,,,No,0
+185,"King Lear
+(Russian: Король Лир, romanized: Korol Lir)",King Lear,1971,Grigori Kozintsev,Film,USSR,Yes,,,,,No,0
+186,"King Lear
+(Great Performances)",King Lear,1974,Edwin Sherin,TV,US,Yes,,,,,No,0
+187,King Lear,King Lear,1974,Tony Davenall,TV,UK,Yes,5.8,,,https://www.imdb.com/title/tt0376708/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_king%2520lear%25201974,No,84
+188,"King Lear
+(BBC Television Shakespeare)",King Lear,1982,Jonathan Miller,TV,UK,Yes,,,,,No,0
+189,King Lear,King Lear,1983,Michael Elliot,TV,UK,Yes,7.6,,,https://www.imdb.com/title/tt0087561/?ref_=nv_sr_srsg_0_tt_4_nm_0_q_king%2520lear%25201983,No,853
+190,"Ran
+(Japanese: 乱, lit. 'Chaos)'",King Lear,1985,Akira Kurosawa (Japanese: 黒澤 明),Film,Japan,No,8.2,19000000," $ 11,000,000.00 ",https://www.imdb.com/title/tt0089881/,No,133000
+191,King Lear,King Lear,1987,Jean-Luc Godard,Film,US,No,5.5,61821," $ 1,000,000.00 ",https://www.imdb.com/title/tt0093349/?ref_=nv_sr_srsg_0_tt_6_nm_0_q_king%2520lear%25201987,Yes,1500
+192,"Gypsy Lore
+(Hungarian: Romani kris - Cigánytörvény)[71]",King Lear,1997,Bence Gyöngyössy,Film,Hungary,No,7.2,,,https://www.imdb.com/title/tt0129345/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_gypsy%2520lore,Yes,74
+193,A Thousand Acres,King Lear,1997,Jocelyn Moorhouse,Film,US,No,6.1,7900000," $ 28,000,000.00 ",https://www.imdb.com/title/tt0120323/?ref_=nv_sr_srsg_0_tt_4_nm_0_q_a%2520thousand%2520acres,Yes,5800
+194,King Lear,King Lear,1997,Richard Eyre,TV,UK,Yes,7.5,,,https://www.imdb.com/title/tt0148376/,No,284
+195,King Lear,King Lear,1999,Brian Blessed,Film,UK,Yes,6.1,,,https://www.imdb.com/title/tt0302691/?ref_=nv_sr_srsg_0_tt_3_nm_0_q_king%2520lear%25201999,No,98
+196,The Tragedy of King Lear,King Lear,2000,,Screenplay,UK,Yes,,,,,No,0
+197,King of Texas,King Lear,2002,Uli Edel,TV,US,No,6.3,,,https://www.imdb.com/title/tt0282659/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_king%2520of%2520texas,Yes,735
+198,King Lear,King Lear,2008,Trevor Nunn,TV,UK,Yes,7.5,,,https://www.imdb.com/title/tt2049483/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_king%2520lear%25202008,No,644
+199,King Lear,King Lear,2018,Richard Eyre,TV,UK,Yes,6.2,,,https://www.imdb.com/title/tt7473890/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_king%2520lear%25202018,Yes,4200
+200,Macbeth,Macbeth,1908,J. Stuart Blackton,Silent,US,Yes,5.3,,,https://www.imdb.com/title/tt0000717/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_macbeth%25201908,No,20
+201,Macbeth,Macbeth,1909,André Calmettes,Silent,France,Yes,3.1,,,https://www.imdb.com/title/tt0001299/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_macbeth%25201909,No,16
+202,Macbeth,Macbeth,1909,Mario Caserini,Silent,Italy,Yes,4,,,https://www.imdb.com/title/tt0000950/?ref_=nv_sr_srsg_1_tt_2_nm_0_q_macbeth%25201909,No,16
+203,Macbeth,Macbeth,1911,Will Barker,Silent,UK,Yes,,,,,No,0
+204,Macbeth,Macbeth,1913,Arthur Bourchier,Silent,Germany,Yes,,,,,No,0
+205,Macbeth,Macbeth,1915,Charles le Bargy,Silent,France,Yes,,,,,No,0
+206,Macbeth,Macbeth,1916,John Emerson,Silent,US,Yes,6.5,,,https://www.imdb.com/title/tt0006995/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_Macbeth%25201916,No,33
+207,The Real Thing at Last,Macbeth,1916,"L. C. MacBean
+J. M. Barrie",Silent,UK,No,6.3,,,https://www.imdb.com/title/tt0007250/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_The%2520real%2520thing%2520at%2520last,Yes,8
+208,Macbeth,Macbeth,1922,H. B. Parkinson,Silent,UK,Yes,,,,,No,0
+209,Macbeth,Macbeth,1948,Orson Welles,Film,US,Yes,7.4,," $ 900,000.00 ",https://www.imdb.com/title/tt0040558/,No,7700
+210,Macbeth,Macbeth,1950,Laurence Olivier,Film,,Yes,,,,,No,0
+211,"Marmayogi
+(Tamil: மர்மயோகி, lit. 'The Mysterious Sage, Hindi: एक था राजा, romanized: Ek Tha Raja, lit. 'Once There Was A King')'",Macbeth,1951,K. Ramnoth,Film,India,No,7.8,,,https://www.imdb.com/title/tt0260168/,No,23
+212,"Macbeth
+(Hallmark Hall of Fame)",Macbeth,1954,George Schaefer,TV,US,Yes,,,,,No,0
+213,Joe MacBeth,Macbeth,1955,Ken Hughes,Film,UK,No,6.3,,,https://www.imdb.com/title/tt0048230/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_joe%2520macbeth,Yes,271
+214,"Throne of Blood
+(Japanese: 蜘蛛巣城, romanized: Kumonosu-jō, lit. 'Spider Web Castle)'",Macbeth,1957,Akira Kurosawa,Film,Japan,No,8.1,46808," $ 350,000.00 ",https://www.imdb.com/title/tt0050613/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_throne%2520of%2520bloood,No,55000
+215,Macbeth,Macbeth,1960,George Schaefer,TV,US,Yes,8.4,,,https://www.imdb.com/title/tt0055112/?ref_=nv_sr_srsg_0_tt_4_nm_0_q_macbeth%25201960,No,66
+216,Macbeth,Macbeth,1960,William Sterling,TV,Australia,Yes,,,,,No,0
+217,Macbeth,Macbeth,1961,Paul Almond,TV,Canada,Yes,5.9,,,https://www.imdb.com/title/tt0400618/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_macbeth%25201961,No,202
+218,Macbeth,Macbeth,1965,Alan Burke,TV,Australia,Yes,,,,,No,0
+219,"Macbeth
+(Play of the Month)",Macbeth,1970,John Gorrie,TV,UK,Yes,5.4,,,https://www.imdb.com/title/tt0066028/?ref_=ttep_ep1,No,14
+220,Macbeth,Macbeth,1971,Roman Polanski,Film,US,Yes,7.4,1000000," $ 2,400,000.00 ",https://www.imdb.com/title/tt0067372/?ref_=nv_sr_srsg_0_tt_3_nm_0_q_macbeth%25201971,No,15000
+221,Macbeth,Macbeth,1978,"Philip Casson (TV)
+Trevor Nunn (stage)",TV,UK,Yes,7.6,,,https://www.imdb.com/title/tt0079499/,No,895
+222,"Macbeth
+(The Shakespeare Collection)",Macbeth,1981,Arthur Allan Seidelman,Video,US,Yes,,,,,No,0
+223,Macbeth,Macbeth,1982,Béla Tarr,TV,Hungary,Yes,6.4,,,https://www.imdb.com/title/tt0292081/?ref_=nv_sr_srsg_0_tt_2_nm_0_q_macbeth%25201982,No,379
+224,"Macbeth
+(BBC Television Shakespeare)",Macbeth,1983,Jack Gold,TV,UK,Yes,,,,,No,0
+225,Macbeth,Macbeth,1987,Claude d'Anna,Film,France,Yes,7.3,,,https://www.imdb.com/title/tt0093461/?ref_=nv_sr_srsg_1_tt_3_nm_0_q_macbeth%25201987,No,54
+226,Men of Respect,Macbeth,1990,William C. Reilly,Film,US,No,5.5,139155,,,Yes,934
+227,"Macbeth
+(Shakespeare: The Animated Tales)",Macbeth,1992,Nicolai Serebryakov,TV,Russian,Yes,7.6,,,https://www.imdb.com/title/tt0104784/?ref_=ttep_ep3,No,102
+228,Macbeth,Macbeth,1997,Jeremy Freeston,TV,UK,Yes,5.1,,,https://www.imdb.com/title/tt0119591/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_macbeth%25201997,No,252
+229,Macbeth on the Estate,Macbeth,1997,Penny Woolcock,TV,UK,Yes,7.7,,,https://www.imdb.com/title/tt0289295/,Yes,104
+230,Macbeth,Macbeth,1998,Michael Bogdanov,TV,UK,Yes,5.9,,,https://www.imdb.com/title/tt0137927/?ref_=nv_sr_srsg_0_tt_3_nm_0_q_macbeth%25201998,No,167
+231,Makibefo,Macbeth,1999,Alexander Abela,Film,Madacascar,No,7.4,,,https://www.imdb.com/title/tt0276313/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_makibefo,Yes,31
+232,Macbeth,Macbeth,2001,Greg Doran,TV,UK,Yes,7.4,,,https://www.imdb.com/title/tt0814203/?ref_=nv_sr_srsg_0_tt_5_nm_0_q_macbeth%25202001,No,92
+233,Rave Macbeth,Macbeth,2001,Michael Rosenbaum,Film,Germany,No,4.7,,,https://www.imdb.com/title/tt0251364/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_rave%2520macbeth,Yes,162
+234,"Scotland, PA",Macbeth,2001,William Morrissette,Film,US,No,6.6,,,https://www.imdb.com/title/tt0265713/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_scotland%252C%2520pa,Yes,4700
+235,"Maqbool
+(Hindi: मक़बूल Urdu: مقبُول)",Macbeth,2003,Vishal Bhardwaj,Film,India,No,8,,,https://www.imdb.com/title/tt0379370/?ref_=nv_sr_srsg_0_tt_1_nm_7_q_maqbool,Yes,12000
+236,"Macbeth
+(ShakespeaRe-Told)",Macbeth,2005,Mark Brozel,TV,UK,Yes,7.2,,,https://www.imdb.com/title/tt0453514/?ref_=ttep_ep2,Yes,1100
+237,Macbeth,Macbeth,2006,Geoffrey Wright,Film,Australia,Yes,4.6,232900,,https://www.imdb.com/title/tt0434541/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_macbeth%25202006,No,14
+238,Macbeth,Macbeth,2009,,TV,South Africa,,,,,,,0
+239,Macbeth,Macbeth,2010,Rupert Goold,TV,UK,Yes,7.5,,,https://www.imdb.com/title/tt1570337/,Yes,1200
+240,"Shakespeare Must Die
+(Thai: เชคสเปียร์ต้องตาย)",Macbeth,2012,Ing Kanjanavanit,Film,Thailand,No,7.6,,,https://www.imdb.com/title/tt2347495/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_shakespeare%2520must%2520die,Yes,14
+241,Macbeth,Macbeth,2015,Justin Kurzel,Film,UK,Yes,6.6,16300000," $ 20,000,000.00 ",,No,59000
+242,Thane of East County,Macbeth,2015,Jesse Keller,Film,US,No,6.6,," $ 65,000.00 ",https://www.imdb.com/title/tt3856302/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_thane%2520of%2520east%2520,Yes,27
+243,"Veeram
+(Malayalam: വീരം, lit. 'Valour)'",Macbeth,2016,Jayaraj,Film,India,No,6.3,," $ 2,398,882.00 ",https://www.imdb.com/title/tt5886216/?ref_=nv_sr_srsg_2_tt_7_nm_1_q_veeram,No,292
+244,Joji,Macbeth,2021,Dileesh Pothan,Film,India,No,7.8,,,https://www.imdb.com/title/tt13206926/?ref_=nv_sr_srsg_3_tt_1_nm_7_q_Joji,Yes,11000
+245,Mandaar,Macbeth,2021,Anirban Bhattacharya,TV,India,No,7.6,,,https://www.imdb.com/title/tt15516072/?ref_=nv_sr_srsg_1_tt_6_nm_1_q_mandaar,Yes,1600
+246,The Tragedy of Macbeth,Macbeth,2021,Joel Coen,Film,US,Yes,7.1,524779,,https://www.imdb.com/title/tt10095582/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520tragedy%2520of%2520,No,38000
+247,Otello,Othello,1906,"Mario Caserini
+Gaston Velle",Silent,Italy,Yes,4.3,,,,No,20
+248,Othello,Othello,1922,Dimitri Buchowetzki,Silent,Germany,Yes,6.4,,,https://www.imdb.com/title/tt0013469/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_othello%25201922,No,289
+249,Othello,Othello,1946,David MacKane,Film,UK,Yes,4.4,,,,No,10
+250,A Double Life,Othello,1947,George Cukor,Film,US,No,7,1700000,,https://www.imdb.com/title/tt0039335/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_a%2520double%2520life,Yes,3800
+251,Othello,Othello,1951,Orson Welles,Film,Italy,Yes,7.5,,,https://www.imdb.com/title/tt0045251/?ref_=nv_sr_srsg_0_tt_3_nm_4_q_Othello%2520orson,No,9300
+252,"Othello
+(Russian: Отелло)",Othello,1956,Sergei Yutkevich,Film,USSR,Yes,7.2,,,https://www.imdb.com/title/tt0048455/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_othello%25201956,No,338
+253,Jubal,Othello,1956,Delmer Daves,Film,US,No,7.1,1800000,,https://www.imdb.com/title/tt0048233/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_jubal,Yes,4300
+254,All Night Long,Othello,1962,Basil Dearden,Film,UK,Yes,7,,,https://www.imdb.com/title/tt0054614/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_all%2520night%2520long%25201962,No,1500
+255,Othello,Othello,1965,Stuart Burge,Film,UK,Yes,7,,,https://www.imdb.com/title/tt0059555/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_othello%25201965,No,1600
+256,Othello,Othello,1965,Patrick Barton,TV,Australia,Yes,,,,,No,0
+257,Othello-67,Othello,1967,Fyodor Khitruk,Film,USSR,No,,,,,Yes,0
+258,Catch My Soul,Othello,1974,Patrick McGoohan,Film,US,Yes,5.9,,,https://www.imdb.com/title/tt0071289/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_catch%2520my%2520soul,Yes,90
+259,"Othello
+(BBC Television Shakespeare)",Othello,1981,Jonathan Miller,TV,UK,Yes,,,,,,0
+260,Othello,Othello,1990,Trevor Nunn,TV,UK,Yes,8.3,,,https://www.imdb.com/title/tt0357995/,No,188
+261,"Othello
+(Shakespeare: The Animated Tales)",Othello,1994,Nicolai Serebryakov,TV,UK,Yes,7.5,,,https://www.imdb.com/title/tt0762490/?ref_=ttep_ep6,No,43
+262,Othello,Othello,1995,Oliver Parker,Film,US,Yes,6.8,2800000," $ 11,000,000.00 ",https://www.imdb.com/title/tt0114057/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_othello%25201995,No,10000
+263,"Kaliyattam
+(Malayalam: കളിയാട്ടം, lit. 'The Play of God)'",Othello,1997,Jayaraaj,Film,India,No,7.8,,,https://www.imdb.com/title/tt0199669/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Kaliyattam,No,315
+264,O,Othello,2001,Tim Blake Nelson,Film,US,No,6.1,19200000," $ 5,000,000.00 ",https://www.imdb.com/title/tt0184791/?ref_=nm_flmg_t_7_dr,Yes,22000
+265,Othello,Othello,2001,Geoffrey Sax,TV,UK,No,7.4,,,https://www.imdb.com/title/tt0275577/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_othello%25202001,Yes,655
+266,Souli,Othello,2004,Alexander Abela,Film,Madacascar,No,6.5,,,https://www.imdb.com/title/tt0376205/?ref_=nv_sr_srsg_1_tt_2_nm_6_q_souli,Yes,25
+267,"Omkara
+(Hindi: ओमकारा, Urdu: امکارا)",Othello,2006,Vishal Bhardwaj,Film,India,No,8,5034141,,https://www.imdb.com/title/tt0488414/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_omkara,Yes,22000
+268,"Jarum Halus
+(Malay: Jarum Halus, lit. 'Fine Needle')",Othello,2008,Mark Tan,Film,Malaysia,No,,," $ 40,000.00 ",,Yes,0
+269,Iago,Othello,2009,Volfango De Biasi,Film,Italy,No,4.1,,,https://www.imdb.com/title/tt1322323/?ref_=nv_sr_srsg_4_tt_4_nm_4_q_iago,Yes,268
+270,"Hrid Majharey
+(Bengali: হৃদ্‌ মাঝারে, lit. 'Live in my Heart)'",Othello,2014,Ranjan Ghosh,Film,India,No,6.4,,,https://www.imdb.com/title/tt3867556/?ref_=nv_sr_srsg_7_tt_4_nm_4_q_hrid,Yes,234
+271,Chocolat,Othello,2016,Roschdy Zem,Film,France,No,7,15300000," $ 21,000,000.00 ",https://www.imdb.com/title/tt4400038/?ref_=nv_sr_srsg_5_tt_6_nm_2_q_chocolat,Yes,8000
+272,"Romeo and Juliet
+(French: Roméo et Juliette)",Romeo and Juliet,1900,Clément Maurice,Film,France,Yes,,,,,No,0
+273,Romeo and Juliet,Romeo and Juliet,1908,J. Stuart Blackton,Silent,US,Yes,,,,,No,0
+274,Romeo and Juliet,Romeo and Juliet,1916,"John W. Noble
+Francis X. Bushman",Silent,US,Yes,7.3,,,https://www.imdb.com/title/tt0007272/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%25201916,No,29
+275,Romeo and Juliet,Romeo and Juliet,1916,J. Gordon Edwards,Silent,US,Yes,6.4,,,https://www.imdb.com/title/tt0007271/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_romeo%2520and%2520juliet%25201916,No,20
+276,Romeo and Juliet,Romeo and Juliet,1936,George Cukor,Film,US,Yes,6.5,2075000," $ 2,000,000.00 ",https://www.imdb.com/title/tt0028203/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%25201936,No,2200
+277,"Romeo and Juliet
+(Spanish: Julieta y Romeo)",Romeo and Juliet,1940,José María Castellví,Film,Spain,Yes,,,,,No,0
+278,"The Lovers of Verona
+(French: Les amants de Vérone)",Romeo and Juliet,1949,André Cayatte,Film,France,No,6.8,,,https://www.imdb.com/title/tt0040090/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520lovers%2520of%2520verona,Yes,288
+279,"Romeo and Juliet
+(Spanish: Romeo y Julita)",Romeo and Juliet,1953,Enrique Carreras,Film,Argentina,No,,,,,Yes,0
+280,Romeo and Juliet,Romeo and Juliet,1954,Renato Castellani,Film,UK,Yes,6,,,https://www.imdb.com/title/tt0047029/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%25201954,No,617
+281,"Romeo and Juliet
+(Russian: Ромео и Джульетта, romanized: Romeo i Dzhulyetta)",Romeo and Juliet,1955,Lev Arnshtam,Film,USSR,Yes,7.6,,,https://www.imdb.com/title/tt0048561/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%25201955,No,93
+282,"Romeo, Juliet and Darkness
+(Czech: Romeo, Julie a tma)",Romeo and Juliet,1960,Jiří Weiss,Film,Czechoslovakia,No,7.5,,,https://www.imdb.com/title/tt0054250/,Yes,462
+283,West Side Story,Romeo and Juliet,1961,"Robert Wise
+Jerome Robbins",Film,US,No,7.6,44100000," $ 6,750,000.00 ",https://www.imdb.com/title/tt0055614/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_west%2520side%2520,Yes,119000
+284,Romanoff and Juliet,Romeo and Juliet,1961,Peter Ustinov,Film,US,No,6.3,,,https://www.imdb.com/title/tt0055383/?ref_=nv_sr_srsg_2_tt_2_nm_6_q_romanoff,Yes,516
+285,"Fury of Johnny Kid
+(Italian: Dove si spara di più, Spanish: La furia de Johnny Kidd)",Romeo and Juliet,1967,Gianni Puccini,Film,Italy,No,6,,,https://www.imdb.com/title/tt0148086/?ref_=nv_sr_srsg_0_tt_3_nm_0_q_fury%2520of%2520johnny%2520kid,Yes,233
+286,Romeo and Juliet,Romeo and Juliet,1968,Franco Zeffirelli,Film,UK,Yes,7.6,38900000," $ 850,000.00 ",https://www.imdb.com/title/tt0063518/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%25201968,No,34000
+287,"Ma che musica maestro
+(Italian: Ma che musica maestro)",Romeo and Juliet,1971,Mariano Laurenti,Film,Italy,No,4.7,,,https://www.imdb.com/title/tt0151422/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_ma%2520che%2520musica,No,24
+288,"Romeo and Juliet
+(BBC Television Shakespeare)",Romeo and Juliet,1978,Alvin Rakoff,TV,UK,Yes,,,,,No,0
+289,"Another History
+(Telugu: మరో చరిత్ర, romanized: Maro Charitra)",Romeo and Juliet,1978,Ravi Yadav,Film,India,No,7.8,,,https://www.imdb.com/title/tt0154849/?ref_=nv_sr_srsg_2_tt_4_nm_2_q_Maro%2520Charitra,Yes,315
+290,Romie-0 and Julie-8,Romeo and Juliet,1979,Clive A. Smith,TV,Canada,No,,,,,Yes,0
+291,"Monica and Jimmy Five: In the World of Romeo & Juliet
+(Portuguese: Mônica e Cebolinha: No Mundo de Romeu e Julieta)",Romeo and Juliet,1979,José Amâncio,TV,Brazil,No,8,,,https://www.imdb.com/title/tt1971478/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_M%25C3%25B4nica%2520e%2520Cebolinha%253A%2520No%2520Mundo%2520de%2520,No,28
+292,"Made For Each Other
+(Hindi: एक दूजे के लिये, romanized: Ek Duuje Ke Liye)",Romeo and Juliet,1981,K. Balachander,Film,India,No,7.3,,,https://www.imdb.com/title/tt0082314/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Ek%2520Duuje%2520Ke%2520Liye,Yes,1300
+293,"The Sea Prince and the Fire Child
+(Japanese: シリウスの伝説, romanized: Shiriusu no Densetsu)",Romeo and Juliet,1981,Masami Hata,Film,Japan,No,7.1,,,https://www.imdb.com/title/tt0203895/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_the%2520sea%2520prince,No,576
+294,The Tragedy of Romeo and Juliet,Romeo and Juliet,1982,William Woodman,Film,US,Yes,4.2,,,https://www.imdb.com/title/tt0484373/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520tragedy%2520of%2520romeo,No,24
+295,China Girl,Romeo and Juliet,1987,Abel Ferrara,Film,US,No,6.3,1262091," $ 3,500,000.00 ",https://www.imdb.com/title/tt0092751/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_china%2520girl,Yes,2200
+296,"From Doom to Doom
+(Hindi: क़यामत से क़यामत तक, romanized: Qayamat Se Qayamat Tak)",Romeo and Juliet,1988,Mansoor Khan,Film,India,No,,599302.5,,https://www.imdb.com/title/tt0095936/?ref_=nv_sr_srsg_0_tt_3_nm_0_q_Qayamat%2520Se%2520Qayamat%2520Tak,Yes,11000
+297,Romeo.Juliet,Romeo and Juliet,1990,Armando Acosta,Film,US,Yes,7.2,,,https://www.imdb.com/title/tt0105273/?ref_=ttep_ep4,Yes,277
+298,"Romeo and Juliet
+(Shakespeare: The Animated Tales)",Romeo and Juliet,1992,Efim Gamburg,TV,Russian,Yes,7,,,https://www.imdb.com/title/tt0105273/?ref_=ttep_ep4,No,91
+299,"November 30
+(Swedish: 30:e november)",Romeo and Juliet,1995,Daniel Fridell,Film,Sweden,No,4.1,,,https://www.imdb.com/title/tt0112258/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_november%252030,Yes,1000
+300,Romeo + Juliet,Romeo and Juliet,1996,Baz Luhrmann,Film,US,Yes,6.7,147600000," $ 14,500,000.00 ",https://www.imdb.com/title/tt0117509/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_romeo%2520%252B,Yes,241000
+301,Tromeo and Juliet,Romeo and Juliet,1996,Lloyd Kaufman,Film,US,No,6,," $ 350,000.00 ",https://www.imdb.com/title/tt0114733/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_tromeo%2520and%2520juliet,Yes,6800
+302,Love Is All There Is,Romeo and Juliet,1996,Joseph Bologna,Film,US,No,5,32925,,https://www.imdb.com/title/tt0116928/?ref_=nv_sr_srsg_1_tt_6_nm_1_q_love%2520is%2520all%2520there%2520is,Yes,1500
+303,The Lion King II: Simba's Pride,Romeo and Juliet,1998,Darrell Rooney,Film,US,No,6.4,,,https://www.imdb.com/title/tt0120131/?ref_=nv_sr_srsg_7_tt_8_nm_0_q_the%2520lion%2520king%2520,Yes,74000
+304,Romeo Must Die,Romeo and Juliet,2000,Andrzej Bartkowiak,Film,US,No,6.1,91000000," $ 25,000,000.00 ",https://www.imdb.com/title/tt0165929/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Romeo%2520must%2520die,Yes,73000
+305,"Loving Hurts You
+(Spanish: Amar te duele)",Romeo and Juliet,2002,Fernando Sariñana,Film,Mexico,No,6.6,,,https://www.imdb.com/title/tt0318292/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_amar%2520te%2520due,Yes,3500
+306,Bollywood Queen,Romeo and Juliet,2003,Jeremy Wooding,Film,UK,No,4.7,,,https://www.imdb.com/title/tt0321494/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_bollywood%2520queen,Yes,511
+307,"Romeo and Juliet Get Married
+(Portuguese: O Casamento de Romeu e Julieta)",Romeo and Juliet,2005,Bruno Barreto,Film,Brazil,No,6.2,,,https://www.imdb.com/title/tt0429743/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%2520get%2520marr,Yes,1100
+308,"Romeo and Juliet
+(French: Roméo et Juliette)",Romeo and Juliet,2006,Yves Desgagnés,Film,Canada,No,4.7,,,https://www.imdb.com/title/tt0816631/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%25202006,Yes,304
+309,Romeo & Juliet: Sealed with a Kiss,Romeo and Juliet,2006,Phil Nibbelink,Animation,US,No,3.6,463002," $ 2,000,000.00 ",https://www.imdb.com/title/tt0830199/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%253A%2520seal,No,418
+310,Rome & Jewel,Romeo and Juliet,2006,"Charles T. Kanganis
+Neil Bagg",Film,US,No,4.1,470,,https://www.imdb.com/title/tt0773306/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_rome%2520and%2520j,Yes,154
+311,"Romeo × Juliet
+(Japanese: ロミオ×ジュリエット, romanized: Romio to Jurietto)",Romeo and Juliet,2007,Fumitoshi Oizaki,Anime,Japan,No,7.1,,,https://www.imdb.com/title/tt1081667/?ref_=fn_al_tt_1,No,574
+312,"Romeo and Juliet
+(Japanese: ロミオとジュリエット)",Romeo and Juliet,2007,,TV,Japan,No,,,,,Yes,0
+313,"Romeo and Juliet
+(Spanish: Romeo y Julieta)",Romeo and Juliet,2007,Raúl Lecouna,TV,Argentina,No,7.3,,,https://www.imdb.com/title/tt1262810/?ref_=nv_sr_srsg_5_tt_8_nm_0_q_romeo%2520y%2520julieta,Yes,52
+314,David & Fatima,Romeo and Juliet,2008,Alain Zaloum,Film,US,No,4.5,,,https://www.imdb.com/title/tt0993753/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_david%2520and%2520fatima,Yes,231
+315,"Another History
+(Telugu: మరో చరిత్ర, romanized: Maro Charitra)",Romeo and Juliet,2010,Ravi Yadav,Film,India,No,3.4,1600000," $ 1,100,000.00 ",https://www.imdb.com/title/tt1510904/?ref_=nv_sr_srsg_1_tt_4_nm_4_q_maro%2520chari,Yes,73
+316,Gnomeo & Juliet,Romeo and Juliet,2011,Kelly Asbury,Animated film,US,No,5.9,193900000," $ 36,000,000.00 ",https://www.imdb.com/title/tt0377981/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_gnomeo%2520and%2520juliet,Yes,59000
+317,Private Romeo,Romeo and Juliet,2011,Alan Brown,Film,US,Yes,6,,,https://www.imdb.com/title/tt1500512/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_private%2520romeo,Yes,2400
+318,Romeo & Juliet,Romeo and Juliet,2013,Carlo Carlei,Film,US,No,5.8,3000000,,https://www.imdb.com/title/tt1645131/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_romeo%2520and%2520juliet%25202013,No,12000
+319,"Issaq
+(Hindi: इसक)",Romeo and Juliet,2013,Manish Tiwary,Film,India,No,4.4,643650.88," $ 2,996,512.50 ",https://www.imdb.com/title/tt2215163/?ref_=nv_sr_srsg_1_tt_8_nm_0_q_isaaq%25202013,Yes,503
+320,"Goliyon Ki Raasleela Ram-Leela
+(Hindi: गोलियों की रासलीला रामलीला, lit. 'A Play of Bullets Ram-Leela)'",Romeo and Juliet,2013,Sanjay Leela Bhansali,Film,India,No,6.4,24139904.7," $ 10,547,724.00 ",https://www.imdb.com/title/tt2215477/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_goliyon,Yes,22000
+321,"Arshinagar
+(Bengali: আরশিনগর)",Romeo and Juliet,2015,Aparna Sen,Film,India,No,4.4,,,https://www.imdb.com/title/tt5309284/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_arshinagar,Yes,248
+322,West Side Story,Romeo and Juliet,2021,Steven Spielberg,Film,US,No,7.1,76000000," $ 100,000,000.00 ",https://www.imdb.com/title/tt3581652/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_west%2520side%2520story,Yes,93000
+323,Timon,Timon of Athens,1973,Tomislav Radić,Film,Yugoslavia,No,7.5,,,https://www.imdb.com/title/tt0070807/?ref_=nv_sr_srsg_0_tt_7_nm_0_q_timon%25201973,Yes,44
+324,"Timon of Athens
+(BBC Television Shakespeare)",Timon of Athens,1981,Jonathan Miller,TV,UK,Yes,,,,,No,0
+325,"Titus Andronicus
+(BBC Television Shakespeare)",Titus Andronicus,1985,Jane Howell,TV,UK,Yes,,,,,No,0
+326,Titus,Titus Andronicus,1999,Julie Taymor,Film,Italy,Yes,7.1,2920000," $ 18,000,000.00 ",https://www.imdb.com/title/tt0120866/?ref_=nv_sr_srsg_3_tt_2_nm_6_q_titus,Yes,21000
+327,The Face of Love,Troilus and Cressida,1954,Alvin Rakoff,TV,UK,No,,,,,Yes,0
+328,"Troilus & Cressida
+(BBC Television Shakespeare)",Troilus and Cressida,1981,Jonathan Miller,TV,UK,Yes,,,,,No,0
+329,"Henry IV: Rebellion from the North
+(An Age of Kings)","Henry IV, Part 1",1960,Michael Hayes,TV,UK,Yes,9,,,https://www.imdb.com/title/tt1196959/?ref_=tt_ep_pr,No,27
+330,"Henry IV: The Road to Shrewsbury
+(An Age of Kings)","Henry IV, Part 1",1960,Michael Hayes,TV,UK,Yes,8.9,,,https://www.imdb.com/title/tt1196960/?ref_=ttep_ep4,No,25
+331,Chimes at Midnight,"Henry IV, Part 1",1966,Orson Welles,Film,Spain,Yes,7.6,," $ 800,000.00 ",https://www.imdb.com/title/tt0059012/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_the%2520chimes,No,9900
+332,"The First Part of King Henry the Fourth, with the life and death of Henry surnamed Hotspur
+(BBC Television Shakespeare)","Henry IV, Part 1",1979,David Giles,TV,UK,No,,,,,No,0
+333,"Henry IV Part 1
+(The War of the Roses)","Henry IV, Part 1",1990,"Michael Bogdanov
+Michael Pennington",Direct-to-video,UK,Yes,,,,,No,0
+334,My Own Private Idaho,"Henry IV, Part 1",1991,Gus Van Sant,Film,US,No,7,8100000," $ 2,500,000.00 ",https://www.imdb.com/title/tt0102494/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_my%2520own%2520priva,Yes,61000
+335,"Henry IV, Part 1
+(The Hollow Crown)","Henry IV, Part 1",2012,Richard Eyre,TV,UK,Yes,8.2,,,https://www.imdb.com/title/tt2120771/?ref_=ttep_ep2,No,1500
+336,"Henry IV: The New Conspiracy
+(An Age of Kings)","Henry IV, Part 2",1960,Michael Hayes,TV,UK,Yes,7.9,,,https://www.imdb.com/title/tt1196961/?ref_=tt_ep_pr,No,18
+337,"Henry IV: Uneasy Lies the Head
+(An Age of Kings)","Henry IV, Part 2",1960,Michael Hayes,TV,UK,Yes,8.2,,,https://www.imdb.com/title/tt1219394/?ref_=ttep_ep6,No,19
+338,Chimes at Midnight,"Henry IV, Part 2",1966,Orson Welles,Film,Spain,Yes,7.6,," $ 800,000.00 ",https://www.imdb.com/title/tt0059012/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_the%2520chimes,No,9900
+339,"The Second Part of King Henry the Fourth containing his Death: and the Coronation of King Henry the Fift
+(BBC Television Shakespeare)","Henry IV, Part 2",1979,David Giles,TV,UK,Yes,,,,,No,0
+340,"Henry IV Part 2
+(The War of the Roses)","Henry IV, Part 2",1990,"Michael Bogdanov
+Michael Pennington",Direct-to-video,UK,Yes,,,,,No,0
+341,"Henry IV, Part 2
+(The Hollow Crown)","Henry IV, Part 2",2012,Richard Eyre,TV,UK,Yes,7.9,,,https://www.imdb.com/title/tt2120772/?ref_=ttep_ep3,No,1100
+342,Henry V,Henry V,1944,Laurence Olivier,Film,UK,Yes,7,2000000," $ 2,000,000.00 ",https://www.imdb.com/title/tt0036910/?ref_=nv_sr_srsg_0_tt_4_nm_0_q_Henry%2520V%25201944,No,6900
+343,"Henry V: Signs of War
+(An Age of Kings)",Henry V,1960,Michael Hayes,TV,UK,Yes,8,,,https://www.imdb.com/title/tt1243385/?ref_=tt_ep_pr,No,20
+344,"Henry V: The Band of Brothers
+(An Age of Kings)",Henry V,1960,Michael Hayes,TV,UK,Yes,8.1,,,https://www.imdb.com/title/tt1281408/?ref_=ttep_ep8,No,20
+345,Chimes at Midnight,Henry V,1966,Orson Welles,Film,Spain,Yes,7.6,," $ 800,000.00 ",https://www.imdb.com/title/tt0059012/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_the%2520chimes,No,9900
+346,"The Life of Henry the Fift
+(BBC Television Shakespeare)",Henry V,1979,David Giles,TV,UK,Yes,,,,,No,0
+347,Henry V,Henry V,1989,Kenneth Branagh,Film,UK,Yes,7.5,10200000," $ 9,000,000.00 ",https://www.imdb.com/title/tt0097499/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_henry%2520v,No,31000
+348,"Henry V
+(The War of the Roses)",Henry V,1990,"Michael Bogdanov
+Michael Pennington",Video,UK,Yes,,,,,No,0
+349,"Henry V
+(The Hollow Crown)",Henry V,2012,Thea Sharrock,TV,UK,Yes,8.3,,,https://www.imdb.com/title/tt2150275/?ref_=tt_eps_top,No,1200
+350,"Henry VI: The Red Rose and the White
+(An Age of Kings)","Henry VI, Part 1",1960,Michael Hayes,TV,UK,Yes,7.6,,,https://www.imdb.com/title/tt1312265/?ref_=ttep_ep9,No,22
+351,"Henry VI
+(The Wars of the Roses)","Henry VI, Part 1",1965,"John Barton
+Peter Hall",TV,UK,Yes,,,,,No,0
+352,"The First Part of Henry the Sixt
+(BBC Television Shakespeare)","Henry VI, Part 1",1983,Jane Howell,TV,UK,Yes,7.3,,,https://www.imdb.com/title/tt0085668/?ref_=nv_sr_srsg_6_tt_1_nm_7_q_the%2520first%2520part%2520of%2520henry,No,144
+353,"Henry VI – House of Lancaster
+(The War of the Roses)","Henry VI, Part 1",1990,"Michael Bogdanov
+Michael Pennington",Video,UK,Yes,,,,,No,0
+354,"Henry VI, Part I
+(The Hollow Crown)","Henry VI, Part 1",2016,Dominic Cooke,TV,UK,Yes,7.7,,,https://www.imdb.com/title/tt3974590/?ref_=ttep_ep1,No,613
+355,"Henry VI: The Fall of a Protector
+(An Age of Kings)","Henry VI, Part 2",1960,Michael Hayes,TV,UK,Yes,8.4,,,https://www.imdb.com/title/tt1312266/?ref_=tt_ep_pr,No,21
+356,"Henry VI: The Rabble from Kent
+(An Age of Kings)","Henry VI, Part 2",1960,Michael Hayes,TV,UK,Yes,8.3,,,https://www.imdb.com/title/tt1312267/?ref_=ttep_ep11,No,21
+357,"Henry VI
+(The Wars of the Roses)","Henry VI, Part 2",1965,"John Barton
+Peter Hall",TV,UK,Yes,,,,,No,0
+358,"Edward IV
+(The Wars of the Roses)","Henry VI, Part 2",1965,"John Barton
+Peter Hall",TV,UK,Yes,,,,,No,0
+359,"The Second Part of Henry the Sixt
+(BBC Television Shakespeare)","Henry VI, Part 2",1983,Jane Howell,TV,UK,Yes,7.5,,,https://www.imdb.com/title/tt0085670/?ref_=nv_sr_srsg_3_tt_7_nm_1_q_the%2520second%2520part%2520of,No,117
+360,"Henry VI: House of Lancaster
+(The War of the Roses)","Henry VI, Part 2",1990,"Michael Bogdanov
+Michael Pennington",Video,UK,Yes,,,,,No,0
+361,"Henry VI: House of York
+(The War of the Roses)","Henry VI, Part 2",1990,"Michael Bogdanov
+Michael Pennington",Video,UK,Yes,,,,,No,0
+362,"Henry VI, Part II
+(The Hollow Crown)","Henry VI, Part 2",2016,Dominic Cooke,TV,UK,Yes,8.1,,,https://www.imdb.com/title/tt3974592/?ref_=ttep_ep2,No,557
+363,"Henry VI: The Morning's War
+(An Age of Kings)","Henry VI, Part 3",1960,Michael Hayes,TV,UK,Yes,8.2,,,https://www.imdb.com/title/tt1312268/?ref_=tt_ep_pr,No,20
+364,"Henry VI: The Sun in Splendour
+(An Age of Kings)","Henry VI, Part 3",1960,Michael Hayes,TV,UK,Yes,8.5,,,https://www.imdb.com/title/tt1312269/?ref_=ttep_ep13,No,20
+365,"Edward IV
+(The Wars of the Roses)","Henry VI, Part 3",1965,"John Barton
+Peter Hall",TV,UK,Yes,,,,https://www.imdb.com/title/tt17766580/?ref_=ttep_epUnknown,No,0
+366,"The Third Part of Henry the Sixt
+(BBC Television Shakespeare)","Henry VI, Part 3",1983,Jane Howell,TV,UK,Yes,7.9,,,https://www.imdb.com/title/tt0085669/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_the%2520third%2520part%2520of%2520henry,No,112
+367,"Henry VI: House of York
+(The War of the Roses)","Henry VI, Part 3",1990,"Michael Bogdanov
+Michael Pennington",Video,UK,Yes,,,,,No,0
+368,"Henry VI, Part II
+(The Hollow Crown)","Henry VI, Part 3",2016,Dominic Cooke,TV,UK,Yes,8.1,,,https://www.imdb.com/title/tt3974592/?ref_=ttep_ep2,No,557
+369,Henry VIII,Henry VIII,1911,Will Barker,Silent film,UK,Yes,5.9,,,https://www.imdb.com/title/tt0001658/?ref_=nv_sr_srsg_0_tt_4_nm_0_q_henry%2520vII%25201911,No,16
+370,"The Famous History of the Life of King Henry the Eight
+(BBC Television Shakespeare)",Henry VIII,1979,Kevin Billington,TV,UK,Yes,7.1,,,https://www.imdb.com/title/tt0080860/?ref_=ttep_ep6,No,138
+371,King John,King John,1899,"William Kennedy Dickson
+Walter Pfeffer Dando",Silent film,UK,Yes,5,,,https://www.imdb.com/title/tt0000247/?ref_=nv_sr_srsg_1_tt_5_nm_3_q_king%2520john,No,504
+372,"Said-e-Havas
+(Hindi: सैदे-हवस, lit. 'Prey to Desire)'",King John,1936,Sohrab Modi,Film,India,No,,,,https://www.imdb.com/title/tt0243536/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_Said-e-,Yes,0
+373,"The Life and Death of King John
+(BBC Television Shakespeare)",King John,1984,David Giles,TV,UK,Yes,7.4,,,https://www.imdb.com/title/tt0087559/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_the%2520life%2520and%2520death%2520of%2520king%2520j,No,142
+374,"King John
+(CBC Presents the Stratford Festival)",King John,2015,Barry Avrich,Video,Canada,Yes,7.7,,,https://www.imdb.com/title/tt4144766/?ref_=nv_sr_srsg_2_tt_5_nm_3_q_king%2520john,No,50
+375,"Richard II: The Hollow Crown
+(An Age of Kings)",Richard II,1960,Michael Hayes,TV,UK,Yes,8.6,,,https://www.imdb.com/title/tt1196962/?ref_=tt_ep_pr,No,28
+376,"Richard II: The Deposing of a King
+(An Age of Kings)",Richard II,1960,Michael Hayes,TV,UK,Yes,8.6,,,https://www.imdb.com/title/tt1196963/?ref_=ttep_ep2,No,23
+377,The Life and Death of King Richard II,Richard II,1960,Raymond Menmuir,TV,Australia,Yes,,,,https://www.imdb.com/title/tt0381374/?ref_=fn_al_tt_1,No,0
+378,Chimes at Midnight,Richard II,1966,Orson Welles,Film,Spain,Yes,7.6,," $ 800,000.00 ",https://www.imdb.com/title/tt0059012/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_the%2520chimes,No,9900
+379,"King Richard the Second
+(BBC Television Shakespeare)",Richard II,1978,David Giles,TV,UK,Yes,8,,,https://www.imdb.com/title/tt0077806/,No,317
+380,"Richard II
+(The War of the Roses)",Richard II,1990,"Michael Bogdanov
+Michael Pennington",Video,UK,Yes,,,,,No,0
+381,Richard II,Richard II,1997,Deborah Warner,TV,UK,Yes,8,,,https://www.imdb.com/title/tt0120016/,Yes,103
+382,Richard the Second,Richard II,2001,John Farrell,Video,US,Yes,4.8,,,https://www.imdb.com/title/tt0291447/?ref_=nv_sr_srsg_1_tt_7_nm_1_q_richard%2520the%2520second,No,25
+383,"Richard II
+(The Hollow Crown)",Richard II,2012,Rupert Goold,TV,UK,Yes,8.1,,,https://www.imdb.com/title/tt1978517/?ref_=ttep_ep1,No,1800
+384,Richard III,Richard III,1912,"André Calmettes
+James Keane",Film,US,Yes,5.7,," $ 30,000.00 ",https://www.imdb.com/title/tt0002461/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_richard%2520III%25201912,No,309
+385,Tower of London,Richard III,1939,Rowland V. Lee,Film,US,No,6.6,,,https://www.imdb.com/title/tt0032049/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_tower%2520of%2520london,Yes,2200
+386,Richard III,Richard III,1955,Laurence Olivier,Film,UK,Yes,7.4,2600000," $ 2,000,000.00 ",https://www.imdb.com/title/tt0049674/?ref_=nv_sr_srsg_2_tt_6_nm_2_q_richard%2520III,No,5100
+387,"Richard III: The Dangerous Brother
+(An Age of Kings)",Richard III,1960,Michael Hayes,TV,UK,Yes,8.8,,,https://www.imdb.com/title/tt1312270/?ref_=tt_ep_pr,No,20
+388,"Richard III: The Boar Hunt
+(An Age of Kings)",Richard III,1960,Michael Hayes,TV,UK,Yes,8.7,,,https://www.imdb.com/title/tt1312271/,No,18
+389,Tower of London,Richard III,1962,Roger Corman,Film,US,No,6.3,," $ 200,000.00 ",https://www.imdb.com/title/tt0056606/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_tower%2520of%2520london,Yes,2500
+390,"Richard III
+(The Wars of the Roses)",Richard III,1965,"John Barton
+Peter Hall",TV,UK,Yes,,,,https://www.imdb.com/title/tt17766524/?ref_=fn_al_tt_1,No,0
+391,The Goodbye Girl,Richard III,1977,Herbert Ross,Film,US,No,7.4,102000000,,https://www.imdb.com/title/tt0076095/,Yes,16000
+392,"The Tragedy of Richard III
+(BBC Television Shakespeare)",Richard III,1983,Jane Howell,TV,UK,Yes,8.2,,,https://www.imdb.com/title/tt0086193/?ref_=nv_sr_srsg_0_tt_4_nm_4_q_the%2520tragedy%2520of%2520richard%2520III,No,226
+393,The Black Adder,Richard III,1983,Martin Shardlow,TV,UK,No,8,,,https://www.imdb.com/title/tt0084988/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520black%2520adder,No,40000
+394,"Richard III
+(The War of the Roses)",Richard III,1990,"Michael Bogdanov
+Michael Pennington",Video,UK,Yes,,,,,No,0
+395,"King Richard III
+(Shakespeare: The Animated Tales)",Richard III,1994,Natalia Orlova,TV,Russia,Yes,7.9,,,https://www.imdb.com/title/tt0762489/?ref_=ttep_ep1,No,51
+396,Richard III,Richard III,1995,Richard Loncraine,Film,UK,Yes,7.3,2700000," $ 7,528,794.00 ",https://www.imdb.com/title/tt0114279/,Yes,15000
+397,Looking for Richard,Richard III,1996,Al Pacino,Film,US,No,7.3,,,https://www.imdb.com/title/tt0116913/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_looking%2520for%2520richard,Yes,8500
+398,Richard III,Richard III,2008,Scott M. Anderson,Film,US,Yes,6.8,,,https://www.imdb.com/title/tt0483789/,Yes,187
+399,"Richard III
+(The Hollow Crown)",Richard III,2016,Dominic Cooke,TV,UK,Yes,8.5,,,https://www.imdb.com/title/tt3974598/,No,652
+400,"Pericles, Prince of Tyre
+(BBC Television Shakespeare)",Pericles,1984,David Jones,TV,UK,Yes,6.9,,,https://www.imdb.com/title/tt0086096/?ref_=nv_sr_srsg_5_tt_4_nm_4_q_pericles,No,114
+401,Cymbeline,Cymbeline,1913,Lucius Henderson,Silent,US,Yes,5,,,https://www.imdb.com/title/tt0002784/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_cymbeline%25201913,No,50
+402,"Cymbeline
+(BBC Television Shakespeare)",Cymbeline,1982,Elijah Moshinsky,TV,UK,Yes,7,,,https://www.imdb.com/title/tt0083779/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_cymbeline%25201982,No,196
+403,Cymbeline,Cymbeline,2014,Michael Almereyda,Film,US,Yes,3.7,," $ 3,200,000.00 ",https://www.imdb.com/title/tt3093522/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_cymbeline,Yes,4200
+404,The Winter's Tale,The Winter's Tale,1910,(unknown),Silent,US,Yes,5,,,https://www.imdb.com/title/tt0131137/?ref_=nv_sr_srsg_1_tt_3_nm_0_q_the%2520winters%2520tale%25201910,No,52
+405,"The Winter's Tale
+(BBC Television Shakespeare)",The Winter's Tale,1981,Jane Howell,TV,UK,Yes,7.2,,,https://www.imdb.com/title/tt0081761/?ref_=nv_sr_srsg_0_tt_3_nm_0_q_The%2520winters%2520tale%25201981,No,160
+406,"The Winter's Tale
+(Shakespeare: The Animated Tales)",The Winter's Tale,1994,Stanislav Sokolov,TV,Russia,Yes,7.7,,,https://www.imdb.com/title/tt0774080/?ref_=ttep_ep5,No,55
+407,The Winter's Tale,The Winter's Tale,1999,"Gregory Doran (stage)
+Robin Lough (TV)",Video,UK,Yes,7.8,,,https://www.imdb.com/title/tt0759947/?ref_=fn_al_tt_2,No,60
+408,The Tempest,The Tempest,1911,Edwin Thanhouser,Silent,US,Yes,,,,https://www.imdb.com/title/tt0125542/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520tempest%25201911,No,0
+409,Yellow Sky,The Tempest,1948,William A. Wellman,Film,US,No,7.4,2800000,,https://www.imdb.com/title/tt0040978/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_yellow%2520sky,Yes,5600
+410,Forbidden Planet,The Tempest,1956,Fred M. Wilcox,Film,US,No,7.5,2765000," $ 1,968,000.00 ",https://www.imdb.com/title/tt0049223/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_forbidden%2520plan,Yes,52000
+411,"The Tempest
+(Hallmark Hall of Fame)",The Tempest,1960,George Schaefer,TV,US,Yes,7,,,https://www.imdb.com/title/tt0057564/,No,185
+412,"Planet of Evil
+(Doctor Who)",The Tempest,1975,David Maloney,TV,UK,No,7.5,,,https://www.imdb.com/title/tt0562865/,Yes,561
+413,The Tempest,The Tempest,1979,Derek Jarman,Film,UK,Yes,6.4,," $ 350,000.00 ",https://www.imdb.com/title/tt0081613/,No,1200
+414,"The Tempest
+(BBC Television Shakespeare)",The Tempest,1980,John Gorrie,TV,UK,Yes,6.8,,,https://www.imdb.com/title/tt0080000/,No,325
+415,Tempest,The Tempest,1982,Paul Mazursky,Film,US,No,6.4,5005245," $ 13,000,000.00 ",https://www.imdb.com/title/tt0084776/,,2600
+416,"The Tempest
+(The Shakespeare Collection)",The Tempest,1983,William Woodman,TV,US,Yes,6,,,https://www.imdb.com/title/tt0090143/,No,50
+417,"The Journey to Melonia
+(Swedish: Resan till Melonia)",The Tempest,1989,Per Åhlin,Film,Sweden,No,7.3,16532.01," $ 2,101,863.97 ",https://www.imdb.com/title/tt0098189/,No,1400
+418,Prospero's Books,The Tempest,1991,Peter Greenaway,Film,UK,No,6.8,1750301," $ 1,882,198.50 ",https://www.imdb.com/title/tt0102722/,No,6600
+419,"The Tempest
+(Shakespeare: The Animated Tales)",The Tempest,1992,Stanislav Sokolov,TV,Russia,Yes,7.8,,,https://www.imdb.com/title/tt0105557/,No,92
+420,The Tempest,The Tempest,1998,Jack Bender,TV,US,No,4.9,,,https://www.imdb.com/title/tt0178928/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520tempest%25201998,Yes,380
+421,The Tempest,The Tempest,2010,Julie Taymor,Film,US,Yes,5.3,346594," $ 20,000,000.00 ",https://www.imdb.com/title/tt1274300/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520tempest%25202010,No,8100
+422,The Tempest,The Tempest,2010,Des McAnuff,Video,Canada,Yes,7.9,73126,,https://www.imdb.com/title/tt1683003/,No,148
+423,The Tempest,The Tempest,2014,Jeremy Herrin,Video,UK,Yes,8.2,,,https://www.imdb.com/title/tt3840898/,No,332
+424,Shakespeare's Shitstorm,The Tempest,2020,Lloyd Kaufman,Film,US,No,6.7,,,https://pro.imdb.com/title/tt7290030/?ref_=instant_tt_1&q=Shakespeare%27s%20Sh*tstorm,Yes,244
