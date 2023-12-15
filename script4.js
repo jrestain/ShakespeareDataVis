@@ -25,9 +25,9 @@ d3.csv('shakespeare.csv').then(data => {
             categoryCounts['Text Unfaithful'] += 1;
         }
 
-        if (newTimePeriod === 'Yes') {
+        if (newTimePeriod === 'No') {
             categoryCounts['Context Faithful'] += 1;
-        } else if (newTimePeriod === 'No') {
+        } else if (newTimePeriod === 'Yes') {
             categoryCounts['Context Unfaithful'] += 1;
         }
 
