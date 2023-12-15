@@ -154,9 +154,9 @@ tooltip.transition()
                 filteredCategoryCounts['Text Unfaithful'] += 1;
             }
 
-            if (newTimePeriod === 'Yes') {
+            if (newTimePeriod === 'No') {
                 filteredCategoryCounts['Context Faithful'] += 1;
-            } else if (newTimePeriod === 'No') {
+            } else if (newTimePeriod === 'Yes') {
                 filteredCategoryCounts['Context Unfaithful'] += 1;
             }
         });
